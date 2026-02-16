@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal</h1>
-<h3 align="center">Aspiring Data Analyst | Excel | SQL | Power BI | Python</h3>
+<h3 align="center">Aspiring Data Analyst | Excel | SQL | Power BI | Tableau | Python</h3>
 
 ---
 
