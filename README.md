@@ -41,4 +41,3 @@
 # 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=498M-Pranjal&layout=compact&theme=tokyonight&cache_seconds=1800)
-
