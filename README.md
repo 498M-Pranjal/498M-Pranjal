@@ -26,20 +26,19 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=498M-Pranjal&show_icons=true&theme=tokyonight)
-
----
-
-# 🔥 Streak Stats:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=498M-Pranjal&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=498M-Pranjal&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
-# 📈 Top Languages:
+# 🔥 Streak Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=498M-Pranjal&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=498M-Pranjal&theme=tokyonight&cache_seconds=1800)
 
+---
+
+# 📈 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=498M-Pranjal&layout=compact&theme=tokyonight&cache_seconds=1800)
 
