@@ -12,7 +12,7 @@
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](www.linkedin.com/in/pranjal-mishra8874)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/pranjal-mishra8874)
 
 ---
 
