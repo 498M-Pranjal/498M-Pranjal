@@ -28,7 +28,8 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=498M-Pranjal&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=498M-Pranjal&theme=radical)
+
 
 ---
 
