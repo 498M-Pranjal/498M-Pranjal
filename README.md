@@ -39,8 +39,3 @@
 
 ---
 
-# 📈 Top Languages
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=498M-Pranjal&layout=compact&theme=radical&count_private=true)
-
-
